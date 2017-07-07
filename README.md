@@ -3,4 +3,4 @@
 
 [a GraphGist could go nicely here]
 
-![Panini Press Graph](https://johnbradley436.github.io/PaniniPress/assets/graph-visualization-Panini.svg)
+![Panini Press Graph](https://johnbradley436.github.io/PaniniPress/graph-visualization-Panini.svg)
