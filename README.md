@@ -2,3 +2,5 @@
 ### Grammar is fun. Everything else leads back to zero.
 
 [a GraphGist could go nicely here]
+
+![Panini Press Graph](https://johnbradley436.github.io/PaniniPress/assets/graph-visualization-Panini.svg)
