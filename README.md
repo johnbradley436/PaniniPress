@@ -1,4 +1,4 @@
-## A Collaborative Learning Project
+# A Collaborative Learning Project
 <nav>
   <a href="https://johnbradley436.github.io/The-Panini-Project/">Home</a> |
   <a href="https://johnbradley436.github.io/The-Panini-Project/">Page One</a> |
